@@ -26,5 +26,5 @@ Build Instructions on Mac:
 4) Then: cmake ..
 5) cmake --build .
 6) cd ../output/bin
-##7. Then run it using: ./hw1
-##8. Alternatively, the program accepts maze dimensions throught the form ./hw1 <width> <height>.
+7) Then run it using: ./hw1
+8) Alternatively, the program accepts maze dimensions throught the form ./hw1 <width> <height>.
