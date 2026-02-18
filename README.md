@@ -1,4 +1,7 @@
-#Build Instruction and Additional notes
+Author: Fabian Contreras
+Class: ECE 4122
+Date: 2/17/25
+Description: Build Instruction and Additional notes
 
 Overview of HW1:
 1) Maze Generation
