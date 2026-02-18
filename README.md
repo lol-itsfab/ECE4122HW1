@@ -11,20 +11,20 @@ Overview of HW1:
 
 
 Build Instructions through PACE-ICE (using CMake and SFML 3):
-##1. Start an interactive session on PACE-ICE.
-##2. Go to the project folder.
-##3. Create the build directory. (mkdir build)
-##4. Navigate to the build directory. (cd build)
-##5. In the build folder run: cmake ../ -DCMAKE_BUILD_TYPE=Debug
-##6. Then run cmake --build . -j8
-##7. The executable is in output/bin so run: cd ../output/bin followed by ./hw1
+1) Start an interactive session on PACE-ICE.
+2) Go to the project folder.
+3) Create the build directory. (mkdir build)
+4) Navigate to the build directory. (cd build)
+5) In the build folder run: cmake ../ -DCMAKE_BUILD_TYPE=Debug
+6) Then run cmake --build . -j8
+7) The executable is in output/bin so run: cd ../output/bin followed by ./hw1
 
 Build Instructions on Mac:
-##1. brew install sfml (to install homebrew)
-##2. Then create the build directory using: mkdir build
-##3. Cd into that directory: cd build
-##4. Then: cmake ..
-##5. cmake --build .
-##6. cd ../output/bin
+1) brew install sfml (to install smfl through homebrew).
+2) Then create the build directory using: mkdir build
+3) Cd into that directory: cd build
+4) Then: cmake ..
+5) cmake --build .
+6) cd ../output/bin
 ##7. Then run it using: ./hw1
 ##8. Alternatively, the program accepts maze dimensions throught the form ./hw1 <width> <height>.
